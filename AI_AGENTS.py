@@ -7,6 +7,11 @@ from Red_Team_Functions.Enumeration import Nmap_Scanner
 from Red_Team_Functions.Enumeration import Shodan
 from Red_Team_Functions.Enumeration import Spiderfoot
 
+
+
+
+
+from langchain_google_genai import ChatGoogleGenerativeAI
 import logging
 import os
 
