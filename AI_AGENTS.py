@@ -20,7 +20,7 @@ import os
 import langchain
 from langchain_core.tools import Tool
 from langchain.memory import SimpleMemory
-groq_api_key = "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"
+groq_api_key = "your_GROQ_API_KEY"
 client = Groq(api_key=groq_api_key)
 
 
