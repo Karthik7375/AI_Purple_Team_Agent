@@ -27,9 +27,10 @@
 - Modular architecture to add custom tools, workflows, and logic
 
 ---
-## FUTURE ENHANCEMENTS
-This Project is a work-in progress. I have planned to continue this through another way (**LEARN + APPLY**).
-I plan on Learning the concepts of advanced enumeration and exploitaion and then integrate them using AI Automation
+## PROGRESS
+This Project is a work-in progress. There are some issues connecting the langchain and the custom tools I am building.
+
+
 
 
 ## 🛠️ Tech Stack
